@@ -6,6 +6,9 @@
 
 * Ruby 2.4.1
 * Rails 5.1
+* Yarn v0.23.4
+* Webpack 2.5.1
+* React 15.5.4
 
 ## 動作確認環境
 
